@@ -25,6 +25,16 @@ Attackers use phishing emails to harvest credentials, then perform lateral movem
 - **Vulnerability Detection** - CVE scanning and reporting
 - **Threat Intelligence** - Automated IOC ingestion and alerting
 
+## 📸 Dashboard Screenshots
+
+### 1. Infrastructure Monitoring
+![Wazuh Agent Status](screenshots/wazuh-top-agents.png)
+*Agent health monitoring showing endpoint coverage and status*
+
+### 2. Threat Detection with MITRE ATT&CK  
+![Wazuh Security Alerts](screenshots/wazuh-security-alerts.png)
+*Real-time security alerts with MITRE ATT&CK technique mapping*
+
 ## 📁 Repository Structure
 ```
 wazuh-siem-homelab/
