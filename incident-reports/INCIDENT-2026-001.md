@@ -20,7 +20,7 @@
 **MITRE Mapping:** T1548.003 (Privilege Escalation, Defense Evasion)
 
 ### Wazuh Dashboard Evidence:
-![Privilege Escalation Alert](screenshots/wazuh-security-alerts.png)
+![Privilege Escalation Alert](../screenshots/wazuh-security-alerts.png)
 
 ## 🕵️ Investigation Findings
 - **Source:** Local user on wazuh-server
