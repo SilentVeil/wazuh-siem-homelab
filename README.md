@@ -41,7 +41,7 @@ wazuh-siem-homelab/
 │   ├── alerts-view.png               # Alert details
 │   └── rules-configuration.png       # Rule management
 ├── incident-reports/
-│   └── INCIDENT-2024-001.md          # Real incident investigated
+│   └── INCIDENT-2026-001.md          # Real incident investigated
 ├── integrations/
 │   ├── virustotal-api.py             # Threat intel script
 │   └── otx-feeder.sh                 # AlienVault OTX integration
