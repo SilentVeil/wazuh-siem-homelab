@@ -1,0 +1,9 @@
+<group name="custom_threat_detection">
+  <rule id="100100" level="10">
+    <decoded_as>json</decoded_as>
+    <field name="event.action">process_started</field>
+    <field name="process.name">powershell.exe</field>
+    <field name="process.command_line">*-EncodedCommand*</field>
+    <description>Suspicious PowerShell with encoded command</description>
+  </rule>
+</group>
